@@ -1,0 +1,13 @@
+#app {
+  margin: 30px;
+}
+
+nav {
+  background-color: #afafaf;
+  margin: 0;
+}
+
+nav .grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
